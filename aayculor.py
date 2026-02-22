@@ -1,4 +1,4 @@
-# Colourful Oghh Bot 🌈
+# Colourful Oghh Bot 
 # Works best in terminal / command prompt (VS Code, PyCharm terminal, etc.)
 
 # Color codes
